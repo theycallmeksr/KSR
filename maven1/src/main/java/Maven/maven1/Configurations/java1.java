@@ -40,6 +40,9 @@ public class java1
 		SessionFactory sessionFactory=factory.buildSessionFactory();
 		System.out.println("SessionFactory object has been created");
 		return sessionFactory;
+		//Class classes[]=new[] {Category.class};
+		//System.out.println("SessionFactory bean"+factory);
+		//return factory.addAnnotatedClasses(classes).buildSessionFactory;
 	}
 	//Creating a hibernateTransactionManager Bean
 	

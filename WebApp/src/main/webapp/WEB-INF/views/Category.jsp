@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<form action="" method="get">
 <table>
 <tr>
 <td>Enter Category Name :</td><td><input type="text" name="cid"></td>
@@ -18,5 +19,6 @@
 <td><input type="submit" value="submit"></td>
 </tr>
 </table>
+</form>
 </body>
 </html>
