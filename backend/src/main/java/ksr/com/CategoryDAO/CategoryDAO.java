@@ -1,9 +1,9 @@
-package ksr.com.CategoryDao;
+package ksr.com.CategoryDAO;
 
 import java.util.List;
 import ksr.com.Category.category;
 
-public interface CategoryDao 
+public interface CategoryDAO 
 {
 	public boolean addCategory(category categ);
 	public boolean updateCategory(category categ);

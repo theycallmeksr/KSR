@@ -86,10 +86,6 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-
-
-
-
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
@@ -114,8 +110,6 @@
 			<version>1.4</version>
 		</dependency>
 
-
-
 		<!-- AspectJ -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
@@ -129,8 +123,6 @@
 			<artifactId>h2</artifactId>
 			<version>1.4.197</version>
 		</dependency>
-
-
 
 		<!-- https://mvnrepository.com/artifact/jstl/jstl -->
 		<dependency>
@@ -154,8 +146,7 @@
 			<artifactId>commons-io</artifactId>
 			<version>2.4</version>
 		</dependency>
-
-
+		
 		<!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -199,14 +190,12 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-
 		<!-- https://mvnrepository.com/artifact/commons-pool/commons-pool -->
 		<dependency>
 			<groupId>commons-pool</groupId>
 			<artifactId>commons-pool</artifactId>
 			<version>1.6</version>
 		</dependency>
-
 
 	</dependencies>
 	<build>
@@ -233,3 +222,4 @@
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 	</properties>
 </project>
+

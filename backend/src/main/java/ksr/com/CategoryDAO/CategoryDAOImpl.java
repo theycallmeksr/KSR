@@ -1,5 +1,4 @@
-package ksr.com.CategoryDao;
-
+package ksr.com.CategoryDAO;
 import java.util.List;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -10,7 +9,7 @@ import ksr.com.Category.category;
 
 @Repository
 @Transactional
-public class CategoryDaoImpl implements CategoryDao
+public class CategoryDAOImpl implements CategoryDAO
 {
 	@Autowired
 	SessionFactory sessionFactory;
