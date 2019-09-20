@@ -12,7 +12,7 @@
 <mvc:annotation-driven />
 <mvc:default-servlet-handler />
 <mvc:resources mapping="/resources/**" location="/WEB-INF/resources/"></mvc:resources>	
-<context:component-scan base-package="com.ecomm" />
+<context:component-scan base-package="ksr.com" />
 <bean id="internalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 <property name="prefix">
 <value>/WEB-INF/views/</value>

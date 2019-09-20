@@ -11,11 +11,9 @@ public class cart
 	@Id
 	@GeneratedValue
 	int cartId;
-	
 	int productid;
 	int quantity;
 	int price;
-	
 	String productName;
 	String userName;
 	String paymentStatuse;

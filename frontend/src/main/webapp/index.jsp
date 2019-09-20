@@ -8,7 +8,7 @@
 <title>index</title>
 </head>
 <body>
-<h1 align="center">Welcome!!!!!!!!!!!!!</h1>
-<img src ='<c:url value='/resources/images/Untitled.jpg'></c:url>' height="800" width="1200" alt="Generic placeholder thumbnal"> 
+<h1 align="center">Welcome!</h1>
+<img src ='<c:url value='/resources/images/Untitled.jpg'></c:url>' height="800" width="1200" alt="Generic placeholder thumbnail"> 
 </body>
 </html>
