@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+
+li {
+	font-color:green;
+    background-color: yellow;
+    border-color: red;
+}
