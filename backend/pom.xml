@@ -274,7 +274,7 @@
 
 		<maven.tomcat.useTestClasspath>true</maven.tomcat.useTestClasspath>
 
-		<hibernate.version>4.3.2.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 	</properties>
 
